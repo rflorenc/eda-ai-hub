@@ -1,8 +1,31 @@
-numpy==1.26.0
-pandas==2.1.1
-matplotlib==3.8.0
-matplotlib-inline==0.1.6
-ipyleaflet==0.17.4
-seaborn==0.13.0
-plotly==5.17.0
-scikit-learn==1.3.1
+matplotlib
+matplotlib-inline
+pandas
+numpy
+scipy
+scikit-learn
+scikit-image
+sympy
+
+ipyleaflet
+seaborn
+plotly
+
+torch
+torchaudio
+torchvision
+
+keras
+
+tensorflow
+tensorboard
+
+pycocotools # MS CoCo dataset Python API
+
+nltk # Natural Language Toolkit, used here for tokenizing captions
+tqdm # Progress bar library
+pillow # PIL python image library
+
+# automatic differentiation
+micrograd
+autograd
