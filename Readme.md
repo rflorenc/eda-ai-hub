@@ -10,6 +10,8 @@ Sample projects included:
 - [DARWIN (Diagnosis Alzheimer's With Handwriting)](nb_DARWIN.ipynb) (Machine Learning)  
 - [Adventure Works 2022 business analysis](nb_adventureworks.ipynb) (Data Science)  
 
+Note that these projects are extensive, so it's recommended to use an IDE's Outline view for navigating notebook sections.  
+
 ## Learning examples  
 
 Simpler learning examples using Kaggle datasts, include:
