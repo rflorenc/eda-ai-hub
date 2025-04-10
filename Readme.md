@@ -12,7 +12,7 @@ Sample projects included:
   - Compares prediction results using BLEU score and cosine similarity  
 
 - [DARWIN (Diagnosis Alzheimer's With Handwriting)](nb_DARWIN.ipynb) (Machine Learning)  
-  - Analyzes Alzheimer's patients handwriting patterns using the DARWIN (Diagnosis Alzheimer's With Handwriting) dataset  
+  - Analyzes Alzheimer's patients handwriting patterns using the [DARWIN](https://archive.ics.uci.edu/dataset/732/darwin) dataset  
   - Features in-depth overfitting analysis, i.e.: PCA vs NonPCA  
   - Compares Logistic Regression and Support Vector Classifier results
   
