@@ -5,6 +5,7 @@ EDA AI Hub is a playground for Exploratory Data Analysis (EDA), Machine Learning
 ## Projects
 
 Sample projects included:  
+
 - [Image Caption Generation using COCO dataset](nb_ImageCaptionGeneration_COCO.ipynb) (Deep Learning) 
 - [DARWIN (Diagnosis Alzheimer's With Handwriting)](nb_DARWIN.ipynb) (Machine Learning)  
 - [Adventure Works 2022 business analysis](nb_adventureworks.ipynb) (Data Science)  
